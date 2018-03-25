@@ -15,7 +15,7 @@ version: '3'
 services:
   typo3:
     container_name: typo3
-    build: .
+    image: saitho/apache-typo3:latest
     ports:
       - "8080:80"
     volumes:
