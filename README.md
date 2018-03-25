@@ -1,6 +1,8 @@
 # Docker image for TYPO3 CMS
 
-* Checked compatibility with TYPO3 CMS 8.7 LTS and 9.1.0
+Get the container from: https://hub.docker.com/r/saitho/apache-typo3/
+
+* Compatibility verified with TYPO3 CMS 8.7 LTS and 9.1.0
 * Comes with PHP 7.2.0 and an Apache server
 
 ## Sample docker-compose file
